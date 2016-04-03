@@ -1,0 +1,154 @@
+Abhishek, N,Boulder - The USA,40.0149856,-105.2705455
+Adam, V,Westborough - The USA,42.2694308,-71.6129906
+Adithya, S,Chennai - India,13.0796914,80.2829533
+Aditya, T,Valencia - The USA,34.7325886,-106.8503918
+Adrian, S,Munich - Germany,48.1371079,11.5753822
+Akash Palaniappan, V,Johns Creek - The USA,34.0181557,-84.1901959
+Alberto, V,Grezzana - Italy,45.5185311,11.0161587
+Alex, H,Munich - Germany,48.1371079,11.5753822
+Amanda, C,Saylorsburg - The USA,40.8952667,-75.3233922
+Anders E,,Oslo - Norway,59.9132694,10.7391112
+Andrea, B,Rome - Italy,41.8935085,12.4825526
+Andrea, V,Turin - Italy,45.0709201,7.685972
+Andreas, K,Bretten - Germany,49.0364564,8.7072589
+Andrei, H,Brusque - Brazil,-27.0964627,-48.9136322
+Andrés, G,Torreon - Coahuila,25.5414662,-103.4531976
+Andrew, S,San Francisco - The USA,37.7792808,-122.4192362
+Andrew, V,Lafayette - The USA,30.2240897,-92.0198426
+Ansen, S,San Antonio - The USA,29.4246002,-98.4951404
+Anthony, T,Harpenden - The UK,51.8214567,-0.3515702
+Antonio, L,Pompei - Italy,40.75125515,14.487895444
+Antony, W,Banbury - The UK,52.0603538,-1.339975
+Arif, D,Surabaya - Indonesia,-7.2459716,112.7378266
+Arnaud, B,Cintegabelle - France,43.3141053,1.5313506
+Arthur, S,San Francisco - The USA,37.7792808,-122.4192362
+Artur, C,Łomianki - Poland,52.3355273,20.895012
+Arun, M,Bangalore - India,12.9791198,77.5912997
+Avery, B,Moscow - The USA,46.7323875,-117.000165
+Baptiste, G,Rennes - France,48.1113387,-1.6800197
+Ben, M,Saffloz - France,46.6690159,5.8484671
+Ben, T,Huddersfield - The USA,37.3075353,-121.9167961
+Beng Chet, N,Penang - Malaysia,5.4065013,100.2559077
+Bernd, G,Paranaque - Philippines,14.5007016,120.9915488
+Bram, R,Hellevoetsluis - The Netherlands,51.8433004,4.12103806215
+Brett, L,Newton-Le-Willows - The UK,53.4480568,-2.6267221
+Brian, H,Jacksonville - The USA,30.3321838,-81.6556509
+Brian, L,San Francisco - The USA,37.7792808,-122.4192362
+Chris, G,Inver Grove - The USA,44.8479039,-93.0428118
+Christopher , G,Peoria  - The USA,40.6938609,-89.5891007
+Christopher, L,Johor Bahru - Malaysia,1.4953041,103.7550839
+Daniel, B,Germantown - The USA,40.0434449,-75.1801774
+Daniel, D,Johannesburg - South Africa,-26.2049999,28.0497222
+Daniele, L,Brescia - Italy,45.5399392,10.2204897
+Danis, Z,Ufa - Russia,54.7262869,55.9477285
+Danny, B,Herent - Belgium,50.9105871,4.67325105781
+Davi, G,Natal - Brasil,-5.8053979,-35.2080904
+Dobrica, P,Zagreb - Croatia,45.8131545,15.9770298
+Earl, T,Doral - The USA,25.8184725,-80.3539678131
+Edgar, B,Johnstown  - The USA,40.3267407,-78.9219697
+Edwin, H,Cali - Colombia,3.4319329,-76.5113047
+Emanuele, G,San Giorgio Di Mantova - Italy,45.18498815,10.8408408965
+Enrique, C,Logroño - Spain,42.4661196,-2.4396675
+Enrique, C,Mexico City - Mexico,19.4325301,-99.1332101
+Erik, K,Vinnitsa - Ukraine,49.2320162,28.467975
+Ernest, W,Puszczykowo - Poland,52.2884282,16.8596018
+Fawei, Z,Midlothian - The USA,41.6253116,-87.717549
+Fernando, C,Columbia - The USA,34.0007493,-81.0343312
+Flavio, R,Ciudad De Buenos Aires - Argentina,-34.6143904,-58.4460878
+Francis, H,New York - The USA,40.7305991,-73.9865811
+Gary, F,Novato - The USA,38.1061979,-122.568119
+Germán, C,Bogotá - Colombia,4.5980478,-74.0760866
+Giovanni, M,Cava De Tirreni - Italy,40.7004103,14.70631
+Grant, B,Wilmington - The USA,39.7459468,-75.5465889
+Guillermo, S,47007 Valladolid - Spain,41.6377409425,-4.73542855467
+Gustavo, R,Mazatlan - Mexico,23.2234374,-106.4161918
+Happy, V,Morena - India,26.38716255,77.8509796545
+Heather, A,Blacksburg - The USA,37.2296566,-80.4136766
+Hendra, K,Tangerang - Indonesia,-6.172703,106.6408501
+Henning, J,Darmstadt - Germany,49.8727746,8.6511775
+Hernan, M,Doral - The USA,25.8184725,-80.3539678131
+Hitoshi, M,Kawasaki Nakahara - Japan,35.5653144,139.6508818
+Idris, A,Simpang Ampat - Malaysia,5.2807297,100.4763777
+Ilias, G,Oxford - The UK,51.752225,-1.2583027
+Imthiaz, A,Chennai - India,13.0796914,80.2829533
+Ioannis, D,Larisa - Greece,39.6382802,22.4159694
+Ivan, K,- Ukraine,49.4871968,31.2718321
+Jabi, L,Tolosa - Spain,43.1386097,-2.0723557
+Jacob, S,Seattle - The USA,47.6038321,-122.3300623
+Jean, T,Orsay - France,48.6991805,2.1874811
+Jerry, I,Haiku - The USA,20.9175,-156.3258332
+Joan, A,Barcelona - Spain,41.3825596,2.1771353
+Jose Carlos, G,San Salvador - El Salvador,13.6977587,-89.1930099
+Jose, M,La Laguna - Spain,28.4857715,-16.3159421
+Josh, C,Seattle - The USA,47.6038321,-122.3300623
+Julian, H,Bremen - Germany,53.0758196,8.8071646
+Kalle, W,Klågerup - Sweden,55.5942535,13.2490081
+Karan, N,Chennai - India,13.0796914,80.2829533
+Katherine, P,Ocean Springs - The USA,30.4112904,-88.8279164
+Kemal, F,Vienna - The USA,38.9013013,-77.2651584
+Kenneth, Y,Hudson - The USA,40.7322695,-74.0766299
+Kiara, N,Panama - Panama,8.3096067,-81.3066245
+Kilian, S,Berlin - Germany,52.5170365,13.3888599
+Kornel, S,Budapest - Hungary,47.4983815,19.0404707
+Krunal, B,Nagpur - India,21.1500964,79.0127048991
+Kshitij, T,Noida - India,28.5726442,77.3547609
+Leroy, M,Monroe - The USA,38.2722313,-90.1792483
+Lihong, L,Fuzhou - China,26.0771539,119.2914774
+Luis, D,Toledo - Spain,39.8560679,-4.0239567
+Luke, B,Ashland - The USA,38.4784144,-82.6379386
+Marcel, V,Amersfoort - The Netherlands,52.1637739,5.39658794935
+Marco, M,Monsano - Italy,43.562561,13.25007
+Marius, G,Kaunas - Lithuania,54.8981061,23.9117515
+Martin, H,Twickenham  - The UK,51.4467941,-0.3283388
+Martin, R,Evanston - The USA,42.0447388,-87.6930458
+Matthias, B,Munich - Germany,48.1371079,11.5753822
+Max, M,Castrop-Rauxel - Germany,51.5646195,7.3106175
+Miguel Angel, A,La Muela,41.580472,-1.1161952
+Mikhail, O,Abu Dhabi - The United Arab Emirates,24.4747961,54.3705762
+Nguyen, T,Hanoi - Vietnam,20.9749006,105.675563064
+Nico, S,Weinbach - Germany,51.1015872,7.3830214
+Nicolas, J,Logan -The USA,40.1075089,-89.3768538
+Noah, N,San Luis Obispo - The USA,35.2827525,-120.6596155
+Noam, Z,San Francisco - The USA,37.7792808,-122.4192362
+Noer Bany, Y,Bandung - Indonesia,-6.9344693,107.6049539
+Ole Dam, M,Albertslund - Danmark,55.6586018,12.3562849
+Oscar, L,San Lucas Sacatepequez - Guatemala,14.5986349,-90.6474758118
+Oscar, M,Miami - The USA,25.7742658,-80.1936588
+Panutat, T,Chiang Mai - Thailand,18.7905618,98.9880909
+Pasquale, B,Messina - Italy,38.1937571,15.5542082
+Paul, K,Menasha - The USA,44.2022293,-88.446536
+Pavel, C,Litovel - Czech Republic,49.7014789,17.0761064
+Peter, J,Tucson - The USA,32.2217422,-110.9264758
+Philip, D,Bloomsburg - The USA,41.0041213,-76.4538159
+Philip, D,Flanders - The USA,40.8456549,-74.6948842
+Pranav, V,Sammamish - The USA,47.6088445,-122.0423066
+Praveen Kuamr, G,Bangalore - India,12.9791198,77.5912997
+Ronald, A,Lima - Perú,-11.9999999,-76.8333329
+Saipraveen, D,Chennai - India,13.0796914,80.2829533
+Sally, Y,Amherst - The USA,42.3803676,-72.5231429
+Salman, F,Nilambur - India,11.2865083,76.2407387
+Samuel, P,Castelfidardo - Italia,43.464574,13.5467001
+Saudin, D,Visoko - Bosnia And Herzegovina,43.9890587,18.1817776
+Scott, L,Philadelphia - The USA,39.9523993,-75.1635898
+Serge, F,Sherbrooke - Canada,45.4029964,-71.8876809
+Shrihariprasath, B,Coimbatore - India,11.0018115,76.9628425
+Simon, P,Darmstadt - Germany,49.8727746,8.6511775
+Stepan, B,Praha  - Czech Republic,50.0874654,14.4212503
+Sunny, K,Chennai - India,13.0796914,80.2829533
+Syed, A,Hyderabad - India,17.3616227,78.4747305
+Thomas, B,Friedrichshafen - Germany,47.6505715,9.4797531
+Thomas, E,Esbjerg - Denmark,55.4664892,8.4520751
+Thomas, F,Bocholt - Germany,51.8382856,6.6149085
+Thorsten, V,Santa Barbara - The USA,34.4098107,-119.6970238
+Tomasz, P,Bielsko Biala - Poland,49.822118,19.0448936
+Tommaso, E,Carugo - Italy,45.709225,9.1945741
+Ugo, A,Ivrea - Italy,45.4673791,7.874797
+Vadivelan, M,Abu Dhabi - The United Arab Emirates,24.4747961,54.3705762
+Vinayan, H,Thiruvananthapuram - India,8.5057492,76.9573562
+Vincenzo, D,Rome - Italy,41.8935085,12.4825526
+Vishnu, R,Chennai - India,13.0796914,80.2829533
+Yahang, W,Xi‘An - China,25.9754847,117.3625039
+Yeffri , S,Sacatepequez - Guatemala,14.54993895,-90.7534130614
+Zachary, M,Broomfield - The USA,39.9379892,-105.0587293
+Zackary, E,Spanish Fort - The USA,30.682923,-87.8502061834
+Zdeno, S,Heřmanův Městec - Czech Republic,49.9470444,15.6646587

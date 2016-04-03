@@ -1,0 +1,2161 @@
+{
+   "features": [
+      {
+         "geometry": {
+            "coordinates": [
+               -105.2705455, 
+               40.0149856
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Boulder - The USA", 
+            "name": "Abhishek N"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               -71.6129906, 
+               42.2694308
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Westborough - The USA", 
+            "name": "Adam V"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               80.2829533, 
+               13.0796914
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Chennai - India", 
+            "name": "Adithya S"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               -106.8503918, 
+               34.7325886
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Valencia - The USA", 
+            "name": "Aditya T"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               11.5753822, 
+               48.1371079
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Munich - Germany", 
+            "name": "Adrian S"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               -84.1901959, 
+               34.0181557
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Johns Creek - The USA", 
+            "name": "Akash Palaniappan V"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               11.0161587, 
+               45.5185311
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Grezzana - Italy", 
+            "name": "Alberto V"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               11.5753822, 
+               48.1371079
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Munich - Germany", 
+            "name": "Alex H"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               -75.3233922, 
+               40.8952667
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Saylorsburg - The USA", 
+            "name": "Amanda C"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               10.7391112, 
+               59.9132694
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Oslo - Norway", 
+            "name": "Anders E"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               12.4825526, 
+               41.8935085
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Rome - Italy", 
+            "name": "Andrea B"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               7.685972, 
+               45.0709201
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Turin - Italy", 
+            "name": "Andrea V"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               8.7072589, 
+               49.0364564
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Bretten - Germany", 
+            "name": "Andreas K"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               -48.9136322, 
+               -27.0964627
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Brusque - Brazil", 
+            "name": "Andrei H"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               -103.4531976, 
+               25.5414662
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Torreon - Coahuila", 
+            "name": "Andrés G"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               -122.4192362, 
+               37.7792808
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "San Francisco - The USA", 
+            "name": "Andrew S"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               -92.0198426, 
+               30.2240897
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Lafayette - The USA", 
+            "name": "Andrew V"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               -98.4951404, 
+               29.4246002
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "San Antonio - The USA", 
+            "name": "Ansen S"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               -0.3515702, 
+               51.8214567
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Harpenden - The UK", 
+            "name": "Anthony T"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               14.487895444, 
+               40.75125515
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Pompei - Italy", 
+            "name": "Antonio L"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               -1.339975, 
+               52.0603538
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Banbury - The UK", 
+            "name": "Antony W"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               112.7378266, 
+               -7.2459716
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Surabaya - Indonesia", 
+            "name": "Arif D"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               1.5313506, 
+               43.3141053
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Cintegabelle - France", 
+            "name": "Arnaud B"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               -122.4192362, 
+               37.7792808
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "San Francisco - The USA", 
+            "name": "Arthur S"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               20.895012, 
+               52.3355273
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Łomianki - Poland", 
+            "name": "Artur C"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               77.5912997, 
+               12.9791198
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Bangalore - India", 
+            "name": "Arun M"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               -117.000165, 
+               46.7323875
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Moscow - The USA", 
+            "name": "Avery B"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               -1.6800197, 
+               48.1113387
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Rennes - France", 
+            "name": "Baptiste G"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               5.8484671, 
+               46.6690159
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Saffloz - France", 
+            "name": "Ben M"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               -121.9167961, 
+               37.3075353
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Huddersfield - The USA", 
+            "name": "Ben T"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               100.2559077, 
+               5.4065013
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Penang - Malaysia", 
+            "name": "Beng Chet N"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               120.9915488, 
+               14.5007016
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Paranaque - Philippines", 
+            "name": "Bernd G"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               4.12103806215, 
+               51.8433004
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Hellevoetsluis - The Netherlands", 
+            "name": "Bram R"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               -2.6267221, 
+               53.4480568
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Newton-Le-Willows - The UK", 
+            "name": "Brett L"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               -81.6556509, 
+               30.3321838
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Jacksonville - The USA", 
+            "name": "Brian H"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               -122.4192362, 
+               37.7792808
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "San Francisco - The USA", 
+            "name": "Brian L"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               -93.0428118, 
+               44.8479039
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Inver Grove - The USA", 
+            "name": "Chris G"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               -89.5891007, 
+               40.6938609
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Peoria  - The USA", 
+            "name": "Christopher  G"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               103.7550839, 
+               1.4953041
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Johor Bahru - Malaysia", 
+            "name": "Christopher L"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               -75.1801774, 
+               40.0434449
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Germantown - The USA", 
+            "name": "Daniel B"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               28.0497222, 
+               -26.2049999
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Johannesburg - South Africa", 
+            "name": "Daniel D"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               10.2204897, 
+               45.5399392
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Brescia - Italy", 
+            "name": "Daniele L"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               55.9477285, 
+               54.7262869
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Ufa - Russia", 
+            "name": "Danis Z"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               4.67325105781, 
+               50.9105871
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Herent - Belgium", 
+            "name": "Danny B"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               -35.2080904, 
+               -5.8053979
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Natal - Brasil", 
+            "name": "Davi G"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               15.9770298, 
+               45.8131545
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Zagreb - Croatia", 
+            "name": "Dobrica P"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               -80.3539678131, 
+               25.8184725
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Doral - The USA", 
+            "name": "Earl T"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               -78.9219697, 
+               40.3267407
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Johnstown  - The USA", 
+            "name": "Edgar B"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               -76.5113047, 
+               3.4319329
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Cali - Colombia", 
+            "name": "Edwin H"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               10.8408408965, 
+               45.18498815
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "San Giorgio Di Mantova - Italy", 
+            "name": "Emanuele G"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               -2.4396675, 
+               42.4661196
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Logroño - Spain", 
+            "name": "Enrique C"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               -99.1332101, 
+               19.4325301
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Mexico City - Mexico", 
+            "name": "Enrique C"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               28.467975, 
+               49.2320162
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Vinnitsa - Ukraine", 
+            "name": "Erik K"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               16.8596018, 
+               52.2884282
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Puszczykowo - Poland", 
+            "name": "Ernest W"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               -87.717549, 
+               41.6253116
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Midlothian - The USA", 
+            "name": "Fawei Z"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               -81.0343312, 
+               34.0007493
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Columbia - The USA", 
+            "name": "Fernando C"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               -58.4460878, 
+               -34.6143904
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Ciudad De Buenos Aires - Argentina", 
+            "name": "Flavio R"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               -73.9865811, 
+               40.7305991
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "New York - The USA", 
+            "name": "Francis H"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               -122.568119, 
+               38.1061979
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Novato - The USA", 
+            "name": "Gary F"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               -74.0760866, 
+               4.5980478
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Bogotá - Colombia", 
+            "name": "Germán C"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               14.70631, 
+               40.7004103
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Cava De Tirreni - Italy", 
+            "name": "Giovanni M"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               -75.5465889, 
+               39.7459468
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Wilmington - The USA", 
+            "name": "Grant B"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               -4.73542855467, 
+               41.6377409425
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "47007 Valladolid - Spain", 
+            "name": "Guillermo S"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               -106.4161918, 
+               23.2234374
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Mazatlan - Mexico", 
+            "name": "Gustavo R"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               77.8509796545, 
+               26.38716255
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Morena - India", 
+            "name": "Happy V"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               -80.4136766, 
+               37.2296566
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Blacksburg - The USA", 
+            "name": "Heather A"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               106.6408501, 
+               -6.172703
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Tangerang - Indonesia", 
+            "name": "Hendra K"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               8.6511775, 
+               49.8727746
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Darmstadt - Germany", 
+            "name": "Henning J"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               -80.3539678131, 
+               25.8184725
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Doral - The USA", 
+            "name": "Hernan M"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               139.6508818, 
+               35.5653144
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Kawasaki Nakahara - Japan", 
+            "name": "Hitoshi M"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               100.4763777, 
+               5.2807297
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Simpang Ampat - Malaysia", 
+            "name": "Idris A"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               -1.2583027, 
+               51.752225
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Oxford - The UK", 
+            "name": "Ilias G"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               80.2829533, 
+               13.0796914
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Chennai - India", 
+            "name": "Imthiaz A"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               22.4159694, 
+               39.6382802
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Larisa - Greece", 
+            "name": "Ioannis D"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               31.2718321, 
+               49.4871968
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "- Ukraine", 
+            "name": "Ivan K"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               -2.0723557, 
+               43.1386097
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Tolosa - Spain", 
+            "name": "Jabi L"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               -122.3300623, 
+               47.6038321
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Seattle - The USA", 
+            "name": "Jacob S"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               2.1874811, 
+               48.6991805
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Orsay - France", 
+            "name": "Jean T"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               -156.3258332, 
+               20.9175
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Haiku - The USA", 
+            "name": "Jerry I"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               2.1771353, 
+               41.3825596
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Barcelona - Spain", 
+            "name": "Joan A"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               -89.1930099, 
+               13.6977587
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "San Salvador - El Salvador", 
+            "name": "Jose Carlos G"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               -16.3159421, 
+               28.4857715
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "La Laguna - Spain", 
+            "name": "Jose M"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               -122.3300623, 
+               47.6038321
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Seattle - The USA", 
+            "name": "Josh C"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               8.8071646, 
+               53.0758196
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Bremen - Germany", 
+            "name": "Julian H"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               13.2490081, 
+               55.5942535
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Klågerup - Sweden", 
+            "name": "Kalle W"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               80.2829533, 
+               13.0796914
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Chennai - India", 
+            "name": "Karan N"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               -88.8279164, 
+               30.4112904
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Ocean Springs - The USA", 
+            "name": "Katherine P"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               -77.2651584, 
+               38.9013013
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Vienna - The USA", 
+            "name": "Kemal F"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               -74.0766299, 
+               40.7322695
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Hudson - The USA", 
+            "name": "Kenneth Y"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               -81.3066245, 
+               8.3096067
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Panama - Panama", 
+            "name": "Kiara N"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               13.3888599, 
+               52.5170365
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Berlin - Germany", 
+            "name": "Kilian S"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               19.0404707, 
+               47.4983815
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Budapest - Hungary", 
+            "name": "Kornel S"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               79.0127048991, 
+               21.1500964
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Nagpur - India", 
+            "name": "Krunal B"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               77.3547609, 
+               28.5726442
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Noida - India", 
+            "name": "Kshitij T"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               -90.1792483, 
+               38.2722313
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Monroe - The USA", 
+            "name": "Leroy M"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               119.2914774, 
+               26.0771539
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Fuzhou - China", 
+            "name": "Lihong L"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               -4.0239567, 
+               39.8560679
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Toledo - Spain", 
+            "name": "Luis D"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               -82.6379386, 
+               38.4784144
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Ashland - The USA", 
+            "name": "Luke B"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               5.39658794935, 
+               52.1637739
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Amersfoort - The Netherlands", 
+            "name": "Marcel V"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               13.25007, 
+               43.562561
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Monsano - Italy", 
+            "name": "Marco M"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               23.9117515, 
+               54.8981061
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Kaunas - Lithuania", 
+            "name": "Marius G"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               -0.3283388, 
+               51.4467941
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Twickenham  - The UK", 
+            "name": "Martin H"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               -87.6930458, 
+               42.0447388
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Evanston - The USA", 
+            "name": "Martin R"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               11.5753822, 
+               48.1371079
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Munich - Germany", 
+            "name": "Matthias B"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               7.3106175, 
+               51.5646195
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Castrop-Rauxel - Germany", 
+            "name": "Max M"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               -1.1161952, 
+               41.580472
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "La Muela", 
+            "name": "Miguel Angel A"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               54.3705762, 
+               24.4747961
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Abu Dhabi - The United Arab Emirates", 
+            "name": "Mikhail O"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               105.675563064, 
+               20.9749006
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Hanoi - Vietnam", 
+            "name": "Nguyen T"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               7.3830214, 
+               51.1015872
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Weinbach - Germany", 
+            "name": "Nico S"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               -89.3768538, 
+               40.1075089
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Logan -The USA", 
+            "name": "Nicolas J"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               -120.6596155, 
+               35.2827525
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "San Luis Obispo - The USA", 
+            "name": "Noah N"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               -122.4192362, 
+               37.7792808
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "San Francisco - The USA", 
+            "name": "Noam Z"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               107.6049539, 
+               -6.9344693
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Bandung - Indonesia", 
+            "name": "Noer Bany Y"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               12.3562849, 
+               55.6586018
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Albertslund - Danmark", 
+            "name": "Ole Dam M"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               -90.6474758118, 
+               14.5986349
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "San Lucas Sacatepequez - Guatemala", 
+            "name": "Oscar L"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               -80.1936588, 
+               25.7742658
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Miami - The USA", 
+            "name": "Oscar M"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               98.9880909, 
+               18.7905618
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Chiang Mai - Thailand", 
+            "name": "Panutat T"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               15.5542082, 
+               38.1937571
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Messina - Italy", 
+            "name": "Pasquale B"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               -88.446536, 
+               44.2022293
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Menasha - The USA", 
+            "name": "Paul K"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               17.0761064, 
+               49.7014789
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Litovel - Czech Republic", 
+            "name": "Pavel C"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               -110.9264758, 
+               32.2217422
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Tucson - The USA", 
+            "name": "Peter J"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               -76.4538159, 
+               41.0041213
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Bloomsburg - The USA", 
+            "name": "Philip D"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               -74.6948842, 
+               40.8456549
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Flanders - The USA", 
+            "name": "Philip D"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               -122.0423066, 
+               47.6088445
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Sammamish - The USA", 
+            "name": "Pranav V"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               77.5912997, 
+               12.9791198
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Bangalore - India", 
+            "name": "Praveen Kuamr G"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               -76.8333329, 
+               -11.9999999
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Lima - Perú", 
+            "name": "Ronald A"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               80.2829533, 
+               13.0796914
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Chennai - India", 
+            "name": "Saipraveen D"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               -72.5231429, 
+               42.3803676
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Amherst - The USA", 
+            "name": "Sally Y"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               76.2407387, 
+               11.2865083
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Nilambur - India", 
+            "name": "Salman F"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               13.5467001, 
+               43.464574
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Castelfidardo - Italia", 
+            "name": "Samuel P"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               18.1817776, 
+               43.9890587
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Visoko - Bosnia And Herzegovina", 
+            "name": "Saudin D"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               -75.1635898, 
+               39.9523993
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Philadelphia - The USA", 
+            "name": "Scott L"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               -71.8876809, 
+               45.4029964
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Sherbrooke - Canada", 
+            "name": "Serge F"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               76.9628425, 
+               11.0018115
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Coimbatore - India", 
+            "name": "Shrihariprasath B"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               8.6511775, 
+               49.8727746
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Darmstadt - Germany", 
+            "name": "Simon P"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               14.4212503, 
+               50.0874654
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Praha  - Czech Republic", 
+            "name": "Stepan B"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               80.2829533, 
+               13.0796914
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Chennai - India", 
+            "name": "Sunny K"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               78.4747305, 
+               17.3616227
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Hyderabad - India", 
+            "name": "Syed A"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               9.4797531, 
+               47.6505715
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Friedrichshafen - Germany", 
+            "name": "Thomas B"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               8.4520751, 
+               55.4664892
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Esbjerg - Denmark", 
+            "name": "Thomas E"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               6.6149085, 
+               51.8382856
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Bocholt - Germany", 
+            "name": "Thomas F"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               -119.6970238, 
+               34.4098107
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Santa Barbara - The USA", 
+            "name": "Thorsten V"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               19.0448936, 
+               49.822118
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Bielsko Biala - Poland", 
+            "name": "Tomasz P"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               9.1945741, 
+               45.709225
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Carugo - Italy", 
+            "name": "Tommaso E"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               7.874797, 
+               45.4673791
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Ivrea - Italy", 
+            "name": "Ugo A"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               54.3705762, 
+               24.4747961
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Abu Dhabi - The United Arab Emirates", 
+            "name": "Vadivelan M"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               76.9573562, 
+               8.5057492
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Thiruvananthapuram - India", 
+            "name": "Vinayan H"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               12.4825526, 
+               41.8935085
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Rome - Italy", 
+            "name": "Vincenzo D"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               80.2829533, 
+               13.0796914
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Chennai - India", 
+            "name": "Vishnu R"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               117.3625039, 
+               25.9754847
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Xi‘An - China", 
+            "name": "Yahang W"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               -90.7534130614, 
+               14.54993895
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Sacatepequez - Guatemala", 
+            "name": "Yeffri  S"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               -105.0587293, 
+               39.9379892
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Broomfield - The USA", 
+            "name": "Zachary M"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               -87.8502061834, 
+               30.682923
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Spanish Fort - The USA", 
+            "name": "Zackary E"
+         }, 
+         "type": "Feature"
+      }, 
+      {
+         "geometry": {
+            "coordinates": [
+               15.6646587, 
+               49.9470444
+            ], 
+            "type": "Point"
+         }, 
+         "properties": {
+            "city": "Heřmanův Městec - Czech Republic", 
+            "name": "Zdeno S"
+         }, 
+         "type": "Feature"
+      }
+   ], 
+   "type": "FeatureCollection"
+}
